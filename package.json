@@ -1,5 +1,5 @@
 {
-  "name": "my-little-redis",
+  "name": "@indigo-milestones/my-little-redis",
   "version": "0.1.0",
   "description": "Wrapper for Redis client",
   "author": "Indigo Milestones, Inc. <contact@indigomilestones.com>",
